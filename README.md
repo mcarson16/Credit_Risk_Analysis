@@ -1,9 +1,9 @@
 # Credit_Risk_Analysis
 ## Overview
-The purpose of this project is to train and evaluate models that predict credit risk using data from LendingClub. Three different approaches will be attempted and compared:
-  1. Resampling Models
-  2. SMOTEENN Algorithm
-  3. Ensemble Classifiers
+The purpose of this project is to train and evaluate models that predict credit risk using data from LendingClub. Three different approaches and a total of 6 models will be attempted and compared:
+  1. Resampling Models 
+  3. SMOTEENN Algorithm
+  4. Ensemble Classifiers
 
 ## Resources
 - Data: [LoanStats_2019Q1.csv and Salary_Data.csv](https://github.com/mcarson16/Credit_Risk_Analysis/blob/main/Resources.zip)
